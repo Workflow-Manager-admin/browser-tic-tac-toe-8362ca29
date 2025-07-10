@@ -2,7 +2,7 @@
 :root {
   --ttt-primary: #1976d2;
   --ttt-accent: #ff9800;
-  --ttt-bg: #fff;
+  --ttt-bg: #f5f5f7; /* Updated background to a soft light gray */
   --ttt-bg-secondary: #f7fafd;
   --ttt-border: #dbe5ef;
   --ttt-shadow: 0 2px 16px rgba(25, 118, 210, 0.06);
